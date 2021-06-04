@@ -1,5 +1,5 @@
 # Cab_Fare_Prediction
-The aim is to predict the cab fare using the given dataset.
+## The aim is to predict the cab fare using the given dataset.
 
 TRAIN.csv consists of 9 attributes:
 
@@ -25,4 +25,4 @@ fare - cab fare in USD (Target Attribute)
 
 
 
-Predict the fare on the TEST dataset
+## Predict the fare on the TEST dataset
